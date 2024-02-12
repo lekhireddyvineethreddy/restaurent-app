@@ -1,0 +1,10 @@
+{
+    "previews": [
+      {
+        "command": ["npm", "start"],
+        "id": "web",
+        "manager": "web"
+      }
+    ]
+  }
+  
